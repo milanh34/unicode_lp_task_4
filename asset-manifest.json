@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unicode_lp_task_4/static/css/main.06395620.css",
-    "main.js": "/unicode_lp_task_4/static/js/main.723d1810.js",
+    "main.js": "/unicode_lp_task_4/static/js/main.10922ce8.js",
     "static/js/787.72351edf.chunk.js": "/unicode_lp_task_4/static/js/787.72351edf.chunk.js",
     "static/media/pic.jpg": "/unicode_lp_task_4/static/media/pic.5a06af636c02811f175a.jpg",
     "static/media/coding.jpg": "/unicode_lp_task_4/static/media/coding.edbac059aa96649640e2.jpg",
@@ -9,11 +9,11 @@
     "static/media/empty_post.png": "/unicode_lp_task_4/static/media/empty_post.75163cd3b2ee34ab3c61.png",
     "index.html": "/unicode_lp_task_4/index.html",
     "main.06395620.css.map": "/unicode_lp_task_4/static/css/main.06395620.css.map",
-    "main.723d1810.js.map": "/unicode_lp_task_4/static/js/main.723d1810.js.map",
+    "main.10922ce8.js.map": "/unicode_lp_task_4/static/js/main.10922ce8.js.map",
     "787.72351edf.chunk.js.map": "/unicode_lp_task_4/static/js/787.72351edf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06395620.css",
-    "static/js/main.723d1810.js"
+    "static/js/main.10922ce8.js"
   ]
 }
