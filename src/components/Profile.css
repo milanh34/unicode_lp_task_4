@@ -1,0 +1,11 @@
+.profile-div{
+    max-width: 1100px;
+    margin: auto;
+}
+.circle{
+    border-radius: 50%;
+}
+.color-tab{
+    border-color: #B92B27;
+    color: #B92B27;
+}
