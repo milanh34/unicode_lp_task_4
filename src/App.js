@@ -28,7 +28,7 @@ import AnswersTab2 from './components/MyProfileComponents/AnswersTab2';
 function App() {
   return (
   <AuthProvider>
-    <Router>
+    <Router basename='/unicode_lp_task_4'>
       <Routes>
         <Route path='/' element={<Register/>}/>
         <Route path='/register' element={<Register/>}/>
